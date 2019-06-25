@@ -53,5 +53,3 @@ the readme should contain:
 1. what your project is about
 2. how to run your code
 3. examples, code documentation, etc
-
-test change
